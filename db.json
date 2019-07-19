@@ -1,0 +1,140 @@
+{
+  "articles": [
+    {
+      "productName": "Vitto Rossi VS000062897",
+      "productPrice": "2177 грн",
+      "productImg": "img/VR_VS000062897.jpg",
+      "productSize": [
+        41,
+        42,
+        43,
+        44,
+        45
+      ],
+      "productColor": "Синий",
+      "productMaterial": "Натуральная кожа",
+      "productInsoleMaterial": "Натуральная кожа",
+      "productSeason": "Лето",
+      "id": 2
+    },
+    {
+      "productName": "Vitto Rossi VS000062129",
+      "productPrice": "1971 грн",
+      "productImg": "img/VR_VS000062129.jpg",
+      "productSize": [
+        41,
+        42,
+        43,
+        44,
+        45
+      ],
+      "productColor": "Синий",
+      "productMaterial": "Нубук",
+      "productInsoleMaterial": "Натуральная кожа",
+      "productSeason": "Лето",
+      "id": 3
+    },
+    {
+      "productName": "Vitto Rossi VS000062133",
+      "productPrice": "1971 грн",
+      "productImg": "img/VR_VS000062133.jpg",
+      "productSize": [
+        41,
+        42,
+        43,
+        44,
+        45
+      ],
+      "productColor": "Черный",
+      "productMaterial": "Замша",
+      "productInsoleMaterial": "Натуральная кожа",
+      "productSeason": "Демисезонные",
+      "id": 4
+    },
+    {
+      "productName": "Vitto Rossi VS000060990",
+      "productPrice": "1780 грн",
+      "productImg": "img/VR_VS000062133.jpg",
+      "productSize": [
+        41,
+        42,
+        43,
+        44,
+        45
+      ],
+      "productColor": "Серый",
+      "productMaterial": "Замша",
+      "productInsoleMaterial": "Натуральная кожа",
+      "productSeason": "Демисезонные",
+      "id": 5
+    },
+    {
+      "productName": "Vitto Rossi VS000062896",
+      "productPrice": "2176 грн",
+      "productImg": "img/VR_VS000062896.jpg",
+      "productSize": [
+        41,
+        42,
+        43,
+        44,
+        45
+      ],
+      "productColor": "Хаки",
+      "productMaterial": "Замша/Нубук/Кожа",
+      "productInsoleMaterial": "Натуральная кожа",
+      "productSeason": "Демисезонные",
+      "id": 6
+    },
+    {
+      "productName": "Vitto Rossi VS000060989",
+      "productPrice": "1970 грн",
+      "productImg": "img/VR_VS000060989.jpg",
+      "productSize": [
+        41,
+        42,
+        43,
+        44,
+        45
+      ],
+      "productColor": "Черный",
+      "productMaterial": "Замша/Текстиль/Силикон",
+      "productInsoleMaterial": "Натуральная кожа",
+      "productSeason": "Демисезонные",
+      "id": 7
+    },
+    {
+      "productName": "Vitto Rossi VS000062179",
+      "productPrice": "1512 грн",
+      "productImg": "img/VR_VS000062179.jpg",
+      "productSize": [
+        41,
+        42,
+        43,
+        44,
+        45
+      ],
+      "productColor": "Синий",
+      "productMaterial": "Натуральная кожа",
+      "productInsoleMaterial": "Натуральная кожа",
+      "productSeason": "Осень",
+      "id": 8
+    },
+    {
+      "productName": "Vitto Rossi VS000062901",
+      "productPrice": "1596 грн",
+      "productImg": "img/VR_VS000062901.jpg",
+      "productSize": [
+        41,
+        42,
+        43,
+        44,
+        45
+      ],
+      "productColor": "Серый",
+      "productMaterial": "Нубук",
+      "productInsoleMaterial": "Натуральная кожа",
+      "productSeason": "Осень",
+      "id": 9
+    }
+  ]
+}
